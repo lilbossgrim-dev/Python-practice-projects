@@ -1,2 +1,2 @@
-# projectos-practica-py
-Estos son unos proyectos básicos de aprendiz que iré subiendo durante este tiempo y iré analizando mis códigos de lo mas básico a lo mas avanzado.
+# Python-practice-projects
+These are some basic learning projects that I will be uploading over this period, and I will be analyzing my code, moving from the most basic to the most advanced levels.
